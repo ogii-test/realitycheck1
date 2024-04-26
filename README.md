@@ -7,7 +7,7 @@ This repository is used to check for a proper installation of CircleCI Server. I
 
 ## Installation
 To install and run reality check on your CircleCI Server installation, follow these steps.
-
+ 
 1. Fork this repository to the GitHub environment tied to your server installation. [See here for more information](https://support.circlec i.com/hc/en-us/articles/360011235534).
 
 2. Set up your repository project in your CircleCI Server installation.
